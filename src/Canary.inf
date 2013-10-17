@@ -1,0 +1,4 @@
+main-class = net.playsocket.autosave.AutoSave
+name = AutoSave
+author = SirPsp
+version = 1.0
